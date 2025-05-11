@@ -1,0 +1,10 @@
+name: clock_alarm_bot
+description: A simple Telegram alarm bot in Dart.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  http: ^0.13.0
+  path: ^1.8.3
